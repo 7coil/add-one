@@ -1,6 +1,6 @@
 {
   "name": "add-one",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Increment an integer by one.",
   "main": "index.js",
   "scripts": {
