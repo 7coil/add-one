@@ -1,6 +1,6 @@
 {
   "name": "add-one",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Increment an integer by one.",
   "main": "index.js",
   "scripts": {
@@ -22,5 +22,9 @@
   },
   "dependencies": {
     "is-integer": "^1.0.6"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/middric/add-one.git"
   }
 }
