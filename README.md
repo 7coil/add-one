@@ -1,4 +1,4 @@
-https://travis-ci.org/middric/add-one.svg?branch=master
+[![Build Status](https://travis-ci.org/middric/add-one.svg?branch=master)](https://travis-ci.org/middric/add-one)
 
 # add-one
 
