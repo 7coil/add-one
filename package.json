@@ -1,13 +1,20 @@
 {
   "name": "add-one",
   "version": "1.0.0",
-  "description": "Increment a variable by one.",
+  "description": "Increment an integer by one.",
   "main": "index.js",
   "scripts": {
     "test": "lab --verbose --assert code --threshold 100"
   },
-  "author": "",
-  "license": "ISC",
+  "author": {
+    "name": "Rich Middleditch",
+    "email": "rich@witchert.co.uk"
+  },
+  "keywords": [
+    "increment",
+    "add"
+  ],
+  "license": "MIT",
   "devDependencies": {
     "code": "^1.5.0",
     "lab": "^5.18.1",
