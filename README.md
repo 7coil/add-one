@@ -1,3 +1,5 @@
+https://travis-ci.org/middric/add-one.svg?branch=master
+
 # add-one
 
 Adds one to an integer.
